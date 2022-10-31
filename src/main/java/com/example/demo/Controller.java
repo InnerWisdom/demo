@@ -1,6 +1,5 @@
 package com.example.demo;
 
-
 public class Controller {
     public String par1() {
         return "Hello World!";
