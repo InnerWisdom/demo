@@ -22,7 +22,7 @@ public class tests {
     public void testHomeController3() {
         Controller homeController = new Controller();
         String result = homeController.par3();
-        assertEquals(result, "No?");
+        assertEquals(result, "No?!");
     }
 
 }
