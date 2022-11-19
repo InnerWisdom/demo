@@ -6,7 +6,7 @@ public class Controller {
     }
 
     public String par2() {
-        return "123";
+        return "12345";
     }
 
     public String par3() {
